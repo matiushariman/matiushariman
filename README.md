@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matius. I’m an Indonesian-born Singapore permanent resident and a Senior Front-end Engineer at Bambu, a fintech startup specializing in robo-advisory based in Singapore.
+My name is Matius. I’m an Indonesian-born Singapore permanent resident and currently on a mission to build digital economy of the future with [GoTo Financial](https://gotofinancial.com/en).
 
 I have always been passionate about software programming since I was a kid, starting from the day I used to play around with Visual Basic back in secondary school. There is something about computer programming, specifically front-end engineering that always excites me. Seeing how lines of code work in harmony on the screen, knowing what I help create can be enjoyed by hundreds of thousands or million users, and that it can help change the world for the better, those are things that always give me a sense of achievement and most importantly happiness.
 
