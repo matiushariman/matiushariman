@@ -49,3 +49,7 @@ due to 2022-present macroeconomic situation. While looking for the next big thin
 
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=SonarCloud&logoColor=white)
+
+## Stats
+
+<a href="https://app.daily.dev/matiushariman"><img src="https://api.daily.dev/devcards/977802e57646464484b34fe923649bc2.png?r=484" width="160" alt="Matius's Dev Card"/></a>
