@@ -5,8 +5,9 @@ My name is Matius. I’m an Indonesian-born Singapore permanent resident and a f
 
 I started my web development journey in 2016 with [BAMBU](https://bambu.co/), where I was fortunate enough to be part of the co-founding members of the awards winning team on a mission to provide next-gen wealth management solutions for financial institutions worldwide.
 
-After almost 6 years worth of rewarding adventure in the startup world, I moved onto my next journey to build digital economy of the future in one of the world's largest economies with [Gojek](https://www.gojek.com/en-id/). Unfortunately, [my venture was cut short along with 1,299 others](https://www.channelnewsasia.com/business/indonesia-goto-cut-1300-jobs-gojek-retrench-tech-firms-ride-hailing-3083101)
-due to 2022-present macroeconomic situation. While looking for the next big thing, I spend most of my days learning new things, building side projects, and of course, catching the Celtics game whenever I can. Go C's!
+After almost 6 years worth of rewarding adventure in the startup world, I moved onto my next journey to build digital economy of the future in one of the world's largest economies with [Gojek](https://www.gojek.com/en-id/). Unfortunately, due to unforeseen circumstances with 2022-current tech winter [my venture was cut short along with 1,299 others](https://www.channelnewsasia.com/business/indonesia-goto-cut-1300-jobs-gojek-retrench-tech-firms-ride-hailing-3083101)
+
+Right now, I am honored to have been invited back to the company I previously helped build and shape. Where I am tasked to lead the engineering team to strive for engineering excellence :)
 
 ## Skills
 
