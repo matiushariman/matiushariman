@@ -1,22 +1,16 @@
 ### Hi there 👋
 
-
-My name is Matius. I’m an Indonesian-born Singapore permanent resident and a former senior frontend engineer at Gojek.
-
-I started my web development journey in 2016 with [BAMBU](https://bambu.co/), where I was fortunate enough to be part of the co-founding members of the awards winning team on a mission to provide next-gen wealth management solutions for financial institutions worldwide.
-
-After almost 6 years worth of rewarding adventure in the startup world, I moved onto my next journey to build digital economy of the future in one of the world's largest economies with [Gojek](https://www.gojek.com/en-id/). Unfortunately, due to unforeseen circumstances with 2022-current tech winter [my venture was cut short along with 1,299 others](https://www.channelnewsasia.com/business/indonesia-goto-cut-1300-jobs-gojek-retrench-tech-firms-ride-hailing-3083101)
-
-Right now, I am honored to have been invited back to the company I previously helped build and shape. Where I am tasked to lead the engineering team to strive for engineering excellence :)
-
 ## Skills
 
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
+
+#### Frontend Development (Web)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -33,6 +27,10 @@ Right now, I am honored to have been invited back to the company I previously he
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+
+#### Frontend Development (Mobile)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Tools
 
